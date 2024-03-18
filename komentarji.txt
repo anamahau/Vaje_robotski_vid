@@ -1,0 +1,14 @@
+vaja 01
+
+!pip install matplotlib
+    -> kao terminal v google colabu
+
+from google.colab import drive
+drive.mount('/content/drive')
+    -> mount your personal drive in colab
+
+!ls -> ocitno je za vse terminalske ukaze ! na zacetku
+
+%cd path
+
+[]
