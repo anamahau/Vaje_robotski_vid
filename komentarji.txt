@@ -14,3 +14,45 @@ drive.mount('/content/drive')
 []
 
 kmalu moje življenje ne bo več potrebno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+izziv:
+unet, Resnet
+YOLOv8 (box detection)
