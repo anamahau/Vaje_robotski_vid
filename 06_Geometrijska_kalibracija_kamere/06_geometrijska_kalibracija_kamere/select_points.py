@@ -33,6 +33,8 @@ def addHomCoord2D(iPts):
 
 # Nalozimo in prikazemo slike
 iCalImage = loadImage('D:/Izobrazevanje/4_FE_UNI_LJ/4._letnik/2. semester/Robotski vid/Laboratorijske vaje/06_Geometrijska_kalibracija_kamere/06_geometrijska_kalibracija_kamere/data/calibration-object.jpg')
+#iCalImage = loadImage('D:/Izobrazevanje/4_FE_UNI_LJ/4._letnik/2. semester/Robotski vid/Laboratorijske vaje/06_geometrijska_kalibracija_kamere/06_geometrijska_kalibracija_kamere/data/test-object.jpg')
+iCalImage = loadImage('D:/Izobrazevanje/4_FE_UNI_LJ/4._letnik/2. semester/Robotski vid/Laboratorijske vaje/06_geometrijska_kalibracija_kamere/06_geometrijska_kalibracija_kamere/data/kalibrirana_slika.png')
 
 # Testirajte funkcijo geomCalibErr
 fig = plt.figure()
